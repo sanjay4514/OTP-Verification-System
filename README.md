@@ -1,0 +1,1 @@
+This project implements a One-Time Password (OTP) verification system in Python. The system generates a 6-digit OTP and sends it to the user's email address for verification. Upon receiving the OTP, the user enters it into the system for validation. Access is granted if the entered OTP matches the generated OTP; otherwise, access is denied.
